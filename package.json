@@ -13,6 +13,7 @@
     "postversion": "git push; git push --tags; npm publish"
   },
   "dependencies": {
+    "glob": "^7.1.2",
     "plop": "^1.9.0"
   },
   "devDependencies": {
