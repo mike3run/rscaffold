@@ -2,12 +2,13 @@
   "name": "rscaffold",
   "version": "0.0.1",
   "description": "react scaffold standard style",
-  "main": "index.js",
+  "main": "plopfile.js",
   "repository": "git@github.com:mike3run/rscaffold.git",
   "author": "Miguel Palau <mpalauzarza@gmail.com>",
   "license": "MIT",
   "scripts": {
-    "lint": "standard --verbose | snazzy"
+    "lint": "standard --verbose | snazzy",
+    "plop": "plop"
   },
   "dependencies": {
     "plop": "^1.9.0"
