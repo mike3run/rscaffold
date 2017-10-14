@@ -8,7 +8,9 @@
   "license": "MIT",
   "scripts": {
     "lint": "standard --verbose | snazzy",
-    "plop": "plop"
+    "plop": "plop",
+    "preversion": "npm run lint",
+    "postversion": "git push; git push --tags; npm publish"
   },
   "dependencies": {
     "plop": "^1.9.0"
