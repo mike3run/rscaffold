@@ -57,3 +57,5 @@ typings/
 # dotenv environment variables file
 .env
 
+# Source file to test things out
+src
