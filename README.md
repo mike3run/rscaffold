@@ -30,6 +30,11 @@ $ npm run plop
 
 No need for global bamboozles.
 
+## Available Commands
+
+* component
+* container
+
 ## Protip
 
 Add a plugin to your terminal to run local npm bin executables like a boss:
@@ -48,4 +53,8 @@ $ plop
 
 Dab dab dab
 
-2017 Miguel Palau with 💖
+## Coming Soon...
+
+Fuzzy finder when creating containers... most likely with [`inquirer-autocomplete-prompt`](https://github.com/mokkabonna/inquirer-autocomplete-prompt)
+
+2017 [Miguel Palau 🐟](https://www.twitter.com/mpalau) Made with 💖 and hate for boilerplate 💀
