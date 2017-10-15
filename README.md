@@ -36,7 +36,7 @@ No need for global bamboozles.
 ## Available Commands
 
 * component
-* container
+* container: Please press enter after running this. See [#1](https://github.com/mike3run/rscaffold/issues/1)
 
 ## Protip
 
@@ -55,9 +55,5 @@ $ plop
 ```
 
 Dab dab dab
-
-## Coming Soon...
-
-Fuzzy finder when creating containers... most likely with [`inquirer-autocomplete-prompt`](https://github.com/mokkabonna/inquirer-autocomplete-prompt)
 
 2017 [Miguel Palau 🐟](https://www.twitter.com/mpalau) Made with 💖 and hate for boilerplate 💀
