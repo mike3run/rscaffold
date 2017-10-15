@@ -36,7 +36,7 @@ No need for global bamboozles.
 ## Available Commands
 
 * component
-* container
+* container: Please press enter after running this. See [#1](https://github.com/mike3run/rscaffold/issues/1)
 
 ## Protip
 
